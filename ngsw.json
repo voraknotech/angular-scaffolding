@@ -9,8 +9,8 @@
       "urls": [
         "http://www.voraknotech.com/angular-scaffolding/favicon.ico",
         "http://www.voraknotech.com/angular-scaffolding/index.html",
-        "http://www.voraknotech.com/angular-scaffolding/inline.40aab8d990448f1005bd.bundle.js",
-        "http://www.voraknotech.com/angular-scaffolding/main.63974829e00897a76d93.bundle.js",
+        "http://www.voraknotech.com/angular-scaffolding/inline.d56180b0e07a42161a61.bundle.js",
+        "http://www.voraknotech.com/angular-scaffolding/main.0ce78900259e6eb85454.bundle.js",
         "http://www.voraknotech.com/angular-scaffolding/polyfills.0fbb33eaf5aae7da9e9a.bundle.js",
         "http://www.voraknotech.com/angular-scaffolding/styles.d41d8cd98f00b204e980.bundle.css"
       ],
@@ -32,12 +32,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "http://www.voraknotech.com/angular-scaffolding/inline.40aab8d990448f1005bd.bundle.js": "deee68a6d28efe07e729bbbce9f8594578094b58",
+    "http://www.voraknotech.com/angular-scaffolding/inline.d56180b0e07a42161a61.bundle.js": "cf0befd154b5a34c8d47289ba4fd2de3d6b12f9d",
     "http://www.voraknotech.com/angular-scaffolding/assets/manifest.json": "72f6f7319bc65316f050cef795ebe41ae77477d4",
-    "http://www.voraknotech.com/angular-scaffolding/main.63974829e00897a76d93.bundle.js": "8106bee3bc046e21d55e77e38b95e398f963a41f",
+    "http://www.voraknotech.com/angular-scaffolding/main.0ce78900259e6eb85454.bundle.js": "260332ae2ce7be4a12c1e9af2eb2e6c451db3308",
     "http://www.voraknotech.com/angular-scaffolding/polyfills.0fbb33eaf5aae7da9e9a.bundle.js": "681376885afb2fbd585549769d0d0db02ea251e0",
     "http://www.voraknotech.com/angular-scaffolding/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "http://www.voraknotech.com/angular-scaffolding/favicon.ico": "5168201405c98593ddf271e249b323d7515b2139",
-    "http://www.voraknotech.com/angular-scaffolding/index.html": "7756c57821e49e87ec9ecdd6f42ee68ba2bcc9ba"
+    "http://www.voraknotech.com/angular-scaffolding/index.html": "30ff645f7282b3132177e88f59ef5a90d058513f"
   }
 }
